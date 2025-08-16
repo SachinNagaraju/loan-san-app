@@ -5,8 +5,8 @@ import CssBaseline from '@mui/material/CssBaseline';
 
 
 // Context Providers
-import { AuthProvider } from './context/AuthContext;
-import { LoanProvider } from './context/LoanContext;
+import { AuthProvider } from './context/AuthContext';
+import { LoanProvider } from './context/LoanContext';
 
 
 // Layout Components
